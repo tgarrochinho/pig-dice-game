@@ -1,5 +1,5 @@
 # Pig the Dice Game
-Pig the Dice Game in clojure
+Pig the Dice game in clojure
 
 Sample project to recap clojure fundamentals and initial setup.
 
